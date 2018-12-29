@@ -1,0 +1,105 @@
+<?php
+
+$lang['url_1'] = 'Tổ Chức - Nhân Sự';
+$lang['url_2'] = 'Quản Lý Nhân Sự';
+$lang['title'] = 'Danh Sách Nhân Sự';
+$lang['button_create'] = 'Thêm';
+$lang['button_reload'] = 'Tải Lại';
+$lang['button_danhsachduyet'] = 'Danh Sách Duyệt';
+$lang['table_1'] = 'Tên Nhân Sự';
+$lang['table_2'] = 'Ngày Sinh';
+$lang['table_3'] = 'Thư Điện tử';
+$lang['table_4'] = 'Số Điện Thoại';
+$lang['table_5'] = 'Địa Chỉ';
+$lang['table_6'] = 'Thao Tác';
+$lang['tooltip_sua'] = 'Sửa';
+$lang['tooltip_xoa'] = 'Xóa';
+
+//them nhansu
+$lang['url_3'] = 'Thêm mới nhân sự';
+$lang['themnhansu_title1'] = 'Thông Tin Nhân Sự';
+$lang['hovaten'] = 'Họ và tên';
+$lang['placeholder_ho'] = 'Họ';
+$lang['placeholder_ten'] = 'Tên';
+$lang['ngaysinh'] = 'Ngày Sinh';
+$lang['placeholder_ngaysinh'] = 'Chọn Ngày Sinh';
+$lang['email'] = 'Email';
+$lang['placeholder_email'] = 'Email';
+$lang['phone'] = 'Số Điện Thoại';
+$lang['placeholder_phone'] = 'Số Điện Thoại';
+$lang['cmnd'] = 'Số CMND';
+$lang['placeholder_cmnd'] = 'Số CMND';
+$lang['diachi'] = 'Địa Chỉ';
+$lang['placeholder_diachi'] = 'Địa Chỉ';
+$lang['loaihopdong'] = 'Loại hợp đồng';
+$lang['notehopdong'] = 'Note Hợp Đồng';
+$lang['placeholder_notehopdong'] = 'Ghi Chú';
+$lang['ngaybatdau'] = 'Ngày Bắt Đầu';
+$lang['placeholder_ngaybatdau'] = 'Chọn Ngày Bắt Đầu';
+$lang['ngayketthuc'] = 'Ngày Kết Thúc';
+$lang['placeholder_ngayketthuc'] = 'Chọn Ngày Kết Thúc';
+$lang['donvi'] = 'Đơn Vị';
+$lang['chosen_donvi'] = 'Chọn Đơn Vị';
+$lang['chucvu'] = 'Chức Vụ';
+$lang['chosen_chucvu'] = 'Chọn Chức Vụ';
+$lang['filehopdong'] = 'File Hợp Đồng';
+$lang['placeholder_filehopdong'] = 'Bấm Chọn File Hợp Đồng';
+$lang['themnhansu_title2'] = 'Thông Tin Hợp Đồng';
+$lang['themnhansu_button_them'] = 'Thêm';
+$lang['themnhansu_button_reset'] = 'Reset';
+$lang['themnhansu_button_trove'] = 'Trở Về';
+//end them nhansu
+
+//detail
+$lang['url_4'] = 'Thông Tin Chi Tiết';
+$lang['detail_ngaysinh'] = 'Ngày Sinh';
+$lang['detail_email'] = 'Thư Điện Tử';
+$lang['detail_phone'] = 'Số Điện Thoại';
+$lang['detail_cmnd'] = 'Số CMND';
+$lang['detail_address'] = 'Địa Chỉ';
+$lang['detail_matkhau'] = 'Mật Khẩu';
+$lang['detail_donvi'] = 'Đơn Vị';
+$lang['detail_chucvu'] = 'Chức Vụ';
+$lang['detail_quyen'] = 'Quyền';
+$lang['detail_xemchitiet'] = 'Xem Chi Tiết';
+$lang['detail_button_reset'] = 'Reset Mật Khẩu';
+$lang['detail_dadoi'] = 'Đã Đổi';
+$lang['detail_thaydoi'] = 'Thay Đổi';
+$lang['detail_bosung'] = 'Bổ Sung';
+$lang['detail_thoat'] = 'Thoát';
+$lang['detail_review_hopdong'] = 'Xem Chi Tiết Hợp Đồng';
+$lang['detail_thongtinhopdong'] = 'Thông Tin Hợp Đồng';
+$lang['detail_thaydoi_title'] = 'Thay Đổi Hợp Đồng';
+$lang['detail_loaihopdong'] = 'Loại Hợp Đồng';
+$lang['detail_loaihopdong_validation'] = 'Bạn Chưa Chọn Loại Hợp Đồng';
+$lang['detail_chosen_loaihopdong'] = 'Chọn Loại Hợp Đồng';
+$lang['detail_notehopdong'] = 'Note Hợp Đồng';
+$lang['detail_placeholder_notehopdong'] = ' Ghi Chú';
+$lang['detail_nbd'] = 'Ngày Bắt Đầu';
+$lang['detail_placeholder_nbd'] = 'Chọn Ngày Bắt Đầu';
+$lang['detail_nbd_validation'] = 'Chưa Chọn Ngày Bắt Đầu';
+$lang['detail_nkt'] = 'Ngày Kết Thúc';
+$lang['detail_placeholder_nkt'] = 'Chọn Ngày Kết Thúc';
+$lang['detail_donvi'] = 'Đơn Vị';
+$lang['detail_chosen_donvi'] = 'Chọn Đơn Vị';
+$lang['detail_chucvu'] = 'Chức Vụ';
+$lang['detail_filehopdong'] = 'File Hợp Đồng';
+$lang['detail_chosen_filehopdong'] = 'Bấm Chọn File Hợp Đồng';
+$lang['detail_button_hoanthanh'] = 'Thay Đổi';
+$lang['detail_button_thoat'] = 'Thoát';
+$lang['bankhongcoquyen'] = 'Bạn Không Có Quyền';
+$lang['co'] = 'Có';
+$lang['khong'] = 'Không';
+$lang['xacnhan'] = 'Xác Nhận';
+$lang['xacnhan_bosunghopdong'] = 'Bạn Có Chắc Muốn Bổ Sung Hợp Đồng Này?';
+$lang['canhbao'] = 'Cảnh Báo';
+$lang['thanhcong'] = 'Thành Công';
+$lang['bosunghopdong_success'] = 'Bổ sung hợp đồng Thành Công';
+$lang['thaydoi'] = 'Thay Đổi';
+$lang['detail_donvi_validation'] = 'Chưa Chọn Đơn Vị';
+$lang['detail_chucvu_validation'] = 'Chưa Chọn Chức Vụ';
+$lang['detail_goitinnhan'] = 'Gởi tin nhắn';
+$lang['title_quyen'] = 'Quyền Trên Các Module';
+$lang['title_button_capnhatquyen'] = 'Cập Nhật Quyền';
+//end detail
+?>

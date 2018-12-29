@@ -1,0 +1,51 @@
+<?php
+/*
+ * English language
+ */
+$lang['xacnhan'] = 'Xác Nhận_English';
+$lang['linkdau'] = 'Quản lý khách hàng_English';
+$lang['linkcuoi'] = 'Quản lý công ty_English';
+$lang['title'] = 'Danh sách công ty_English';
+$lang['stt'] = 'Stt_English';
+$lang['name'] = 'Tên công ty_English';
+$lang['validation_name'] = 'Tên Công Ty Không Để Trống_English';
+$lang['address'] = 'Địa chỉ_English';
+$lang['validation_address'] = 'Địa Chỉ Công Ty Không Để Trống_English';
+$lang['phone'] = 'Số Điện thoại_English';
+$lang['validation_phone'] = 'Số Điện Thoại Công Ty Không Để Trống_English';
+$lang['check_phone'] = 'Số Điện Thoại Đã Tồn Tại_English';
+$lang['fax'] = 'Fax_English';
+$lang['validation_fax'] = 'Fax Công Ty Không Để Trống_English';
+$lang['email'] = 'Email_English';
+$lang['validation_email'] = 'Email Công Ty Không Để Trống_English';
+$lang['validation_email_error'] = 'Địa Chỉ Email Không Đúng Định Dạng_English';
+$lang['check_email'] = 'Email Đã Tồn Tại_English';
+$lang['tax'] = 'Mã số thuế_English';
+$lang['validation_tax'] = 'Mã Số Thuế Công Ty Không Để Trống_English';
+$lang['validation_tax_error'] = 'Mã Số Thuế Không Đúng_English';
+$lang['check_tax'] = 'Mã Số Thuế Đã Tồn Tại_English';
+$lang['themmoi'] = 'Thêm Mới_English';
+$lang['load'] = 'Làm Mới_English';
+$lang['thanhcong'] = 'Thành Công!_English';
+$lang['thatbai'] = 'Thất Bại!_English';
+$lang['canhbao'] = 'Cảnh Báo!_English';
+$lang['error'] = 'Có Lỗi Sảy Ra_English';
+$lang['them_title'] = 'Xác nhận thêm công ty này_English';
+$lang['them'] = 'Bạn đã thêm công ty thành công_English';
+$lang['sua_title'] = "Xác nhận sửa công ty này_English";
+$lang['sua'] = 'Bạn đã sữa công ty thành công_English';
+$lang['xoa_title'] = "Xác nhận xóa công ty này?_English";
+$lang['xoa'] = 'Bạn đã xóa công ty thành công_English';
+$lang['modal_title_them'] = 'Thêm công ty Mới_English';
+$lang['them_thanhcong'] = 'Thêm công ty Thành Công_English';
+$lang['modal_title_sua'] = 'Sửa công ty_English';
+$lang['them_thanhcong'] = 'Sửa công ty Thành Công_English';
+$lang['button_them'] = 'Thêm_English';
+$lang['button_sua'] = 'Sửa_English';
+$lang['button_thoat'] = 'Thoát_English';
+$lang['nhap'] = 'Nhập_English ';
+$lang['chon'] = 'Chọn_English';
+$lang['thaotac'] = 'Thao Tác_English';
+$lang['tooltip_sua'] = 'Sửa_English';
+$lang['tooltip_xoa'] = 'Xóa_English';
+$lang['tooltip_nguoilienhe'] = 'Người&nbsp;Liên&nbsp;Hệ_English';

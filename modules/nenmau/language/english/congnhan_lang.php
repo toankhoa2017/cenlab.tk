@@ -1,0 +1,44 @@
+<?php
+
+$lang['url_1'] = 'Quản Lý Nền Mẫu_english';
+$lang['url_2'] = 'Quản Lý Công Nhận_english';
+$lang['title'] = 'Danh Sách Nơi Công Nhận_english';
+$lang['button_create'] = 'Thêm_english';
+$lang['button_reload'] = 'Reload_english';
+$lang['table_1'] = 'STT_english';
+$lang['table_2'] = 'Nơi Công Nhận_english';
+$lang['table_3'] = 'Kí Hiệu_english';
+$lang['table_4'] = 'Thời Hạn Công Nhận_english';
+$lang['table_5'] = 'Logo_english';
+$lang['table_6'] = 'Thao Tác_english';
+$lang['tooltip_sua'] = 'Sửa_english';
+$lang['tooltip_xoa'] = 'Xóa_english';
+$lang['tencongnhan'] = 'Tên Công Nhận_english';
+$lang['tencongnhan_validation'] = 'Tên công nhận không để trống_english';
+$lang['tencongnhan_error'] = 'Tên Công Nhận Đã Tồn Tại_english';
+$lang['kihieu'] = 'Kí Hiệu_english';
+$lang['kihieu_validation'] = 'Kí hiệu công nhận không để trống_english';
+$lang['ngayhethan'] = 'Ngày Hết Hạn_english';
+$lang['placeholder_ngayhethan'] = 'Chọn Ngày Hết Hạn_english';
+$lang['ngayhethan_validation'] = 'Ngày hết hạn công nhận không để trống_english';
+$lang['hinhcongnhan'] = 'Hình Công Nhận_english';
+$lang['hinhcongnhan_validation'] = 'Hình công nhận không để trống_english';
+$lang['canhbao'] = 'Cảnh Báo!_english';
+$lang['thatbai'] = 'Thất Bại!_english';
+$lang['thanhcong'] = 'Thành Công_english';
+$lang['them_success'] = 'Bạn đã thêm công nhận thành công_english';
+$lang['sua_success'] = 'Bạn đã sửa công nhận thành công_english';
+$lang['xoa_success'] = 'Bạn đã xóa công nhận thành công_english';
+$lang['co'] = 'Có_english';
+$lang['khong'] = 'Không_english';
+$lang['xacnhan'] = 'Xác Nhận_english';
+$lang['xacnhan_sua'] = 'Xác nhận sửa công nhận này?_english';
+$lang['xacnhan_xoa'] = 'Xác nhận xóa công nhận này?_english';
+$lang['title_sua'] = 'Sửa Nơi Công Nhận_english';
+$lang['title_them'] = 'Thêm Nơi Công Nhận_english';
+$lang['button_them'] = 'Thêm_english';
+$lang['button_sua'] = 'Sửa_english';
+$lang['button_thoat'] = 'Thoát_english';
+$lang['bamchonfile'] = 'Bấm Chọn File Hợp Đồng_english';
+$lang['anhcongnhan'] = 'Ảnh Đơn Vị Công Nhận_english';
+?>

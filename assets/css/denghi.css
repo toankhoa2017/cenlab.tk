@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 9, 2018, 11:34:04 AM
+    Author     : PC02
+*/
+#validation-form .ignore{
+    display: none;
+}
+.tai-lieu-detail .profile-info-name {
+    width: 200px !important;
+}
+#quytrinh-tailieu{
+    width: 100%;
+    margin: 0;
+    display: table;
+    table-layout: fixed;
+}
+#quytrinh-tailieu li{
+    display: table-cell;
+    padding-right: 20px;
+}
+#quytrinh-tailieu .label-xlg{
+    font-size: 14px;
+    padding: 15px 0;
+    margin: 0;
+    height: 50px;
+    width: 100%;
+}
+#quytrinh-tailieu .label-xlg.arrowed-in:before{
+    border-width: 25px 10px;
+    left: -10px;
+}
+#quytrinh-tailieu .label-xlg.arrowed-right:after{
+    border-width: 25px 10px;
+    right: -20px;
+}
+#quytrinh-tailieu .not-allowed a{
+    cursor: not-allowed;
+}
+.profile-info-name{
+    width: 210px;
+}
+div[aria-label="Pop-out"] {
+    display: none !important;
+}
+div[aria-label="toolbar"] {
+    width: 52px !important;
+}
+div[role="toolbar"] {
+    display: none !important;
+    width: 0px !important;
+    right: 0px !important;
+}
+.datepicker td.today{
+    background: yellow;
+}

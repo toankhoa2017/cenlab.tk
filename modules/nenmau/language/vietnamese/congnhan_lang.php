@@ -1,0 +1,44 @@
+<?php
+
+$lang['url_1'] = 'Quản Lý Nền Mẫu';
+$lang['url_2'] = 'Quản Lý Công Nhận';
+$lang['title'] = 'Danh Sách Nơi Công Nhận';
+$lang['button_create'] = 'Thêm';
+$lang['button_reload'] = 'Reload';
+$lang['table_1'] = 'STT';
+$lang['table_2'] = 'Nơi Công Nhận';
+$lang['table_3'] = 'Kí Hiệu';
+$lang['table_4'] = 'Thời Hạn Công Nhận';
+$lang['table_5'] = 'Logo';
+$lang['table_6'] = 'Thao Tác';
+$lang['tooltip_sua'] = 'Sửa';
+$lang['tooltip_xoa'] = 'Xóa';
+$lang['tencongnhan'] = 'Tên Công Nhận';
+$lang['tencongnhan_validation'] = 'Tên công nhận không để trống';
+$lang['tencongnhan_error'] = 'Tên Công Nhận Đã Tồn Tại';
+$lang['kihieu'] = 'Kí Hiệu';
+$lang['kihieu_validation'] = 'Kí hiệu công nhận không để trống';
+$lang['ngayhethan'] = 'Ngày Hết Hạn';
+$lang['placeholder_ngayhethan'] = 'Chọn Ngày Hết Hạn';
+$lang['ngayhethan_validation'] = 'Ngày hết hạn công nhận không để trống';
+$lang['hinhcongnhan'] = 'Hình Công Nhận';
+$lang['hinhcongnhan_validation'] = 'Hình công nhận không để trống';
+$lang['canhbao'] = 'Cảnh Báo!';
+$lang['thatbai'] = 'Thất Bại!';
+$lang['thanhcong'] = 'Thành Công';
+$lang['them_success'] = 'Bạn đã thêm công nhận thành công';
+$lang['sua_success'] = 'Bạn đã sửa công nhận thành công';
+$lang['xoa_success'] = 'Bạn đã xóa công nhận thành công';
+$lang['co'] = 'Có';
+$lang['khong'] = 'Không';
+$lang['xacnhan'] = 'Xác Nhận';
+$lang['xacnhan_sua'] = 'Xác nhận sửa công nhận này?';
+$lang['xacnhan_xoa'] = 'Xác nhận xóa công nhận này?';
+$lang['title_sua'] = 'Sửa Nơi Công Nhận';
+$lang['title_them'] = 'Thêm Nơi Công Nhận';
+$lang['button_them'] = 'Thêm';
+$lang['button_sua'] = 'Sửa';
+$lang['button_thoat'] = 'Thoát';
+$lang['bamchonfile'] = 'Bấm Chọn File Hợp Đồng';
+$lang['anhcongnhan'] = 'Ảnh Đơn Vị Công Nhận';
+?>

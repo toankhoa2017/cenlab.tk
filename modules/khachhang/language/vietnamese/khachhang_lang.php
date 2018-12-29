@@ -1,0 +1,52 @@
+<?php
+/*
+ * vietnam language
+ */
+$lang['xacnhan'] = 'Xác Nhận';
+$lang['linkdau'] = 'Quản lý khách hàng';
+$lang['linkcuoi'] = 'Quản lý công ty';
+$lang['title'] = 'Danh sách công ty';
+$lang['title_chitiet'] = 'Chi Tiết công ty';
+$lang['stt'] = 'Stt';
+$lang['name'] = 'Tên công ty';
+$lang['validation_name'] = 'Tên Công Ty Không Để Trống';
+$lang['address'] = 'Địa chỉ';
+$lang['validation_address'] = 'Địa Chỉ Công Ty Không Để Trống';
+$lang['phone'] = 'Số Điện thoại';
+$lang['validation_phone'] = 'Số Điện Thoại Công Ty Không Để Trống';
+$lang['check_phone'] = 'Số Điện Thoại Đã Tồn Tại';
+$lang['fax'] = 'Fax';
+$lang['validation_fax'] = 'Fax Công Ty Không Để Trống';
+$lang['email'] = 'Email';
+$lang['validation_email'] = 'Email Công Ty Không Để Trống';
+$lang['validation_email_error'] = 'Địa Chỉ Email Không Đúng Định Dạng';
+$lang['check_email'] = 'Email Đã Tồn Tại';
+$lang['tax'] = 'Mã số thuế';
+$lang['validation_tax'] = 'Mã Số Thuế Công Ty Không Để Trống';
+$lang['validation_tax_error'] = 'Mã Số Thuế Không Đúng';
+$lang['check_tax'] = 'Mã Số Thuế Đã Tồn Tại';
+$lang['themmoi'] = 'Thêm Mới';
+$lang['load'] = 'Làm Mới';
+$lang['thanhcong'] = 'Thành Công!';
+$lang['thatbai'] = 'Thất Bại!';
+$lang['canhbao'] = 'Cảnh Báo!';
+$lang['error'] = 'Có Lỗi Sảy Ra';
+$lang['them_title'] = 'Xác nhận thêm công ty này';
+$lang['them'] = 'Bạn đã thêm công ty thành công';
+$lang['sua_title'] = "Xác nhận sửa công ty này";
+$lang['sua'] = 'Bạn đã sữa công ty thành công';
+$lang['xoa_title'] = "Xác nhận xóa công ty này?";
+$lang['xoa'] = 'Bạn đã xóa công ty thành công';
+$lang['modal_title_them'] = 'Thêm công ty Mới';
+$lang['them_thanhcong'] = 'Thêm công ty Thành Công';
+$lang['modal_title_sua'] = 'Sửa công ty';
+$lang['them_thanhcong'] = 'Sửa công ty Thành Công';
+$lang['button_them'] = 'Thêm';
+$lang['button_sua'] = 'Sửa';
+$lang['button_thoat'] = 'Thoát';
+$lang['nhap'] = 'Nhập ';
+$lang['chon'] = 'Chọn';
+$lang['thaotac'] = 'Thao Tác';
+$lang['tooltip_sua'] = 'Sửa';
+$lang['tooltip_xoa'] = 'Xóa';
+$lang['tooltip_nguoilienhe'] = 'Người&nbsp;Liên&nbsp;Hệ';

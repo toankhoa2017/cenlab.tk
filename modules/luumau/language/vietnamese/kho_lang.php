@@ -1,0 +1,42 @@
+<?php
+
+$lang['url_1'] = 'Quản lý lưu mẫu';
+$lang['url_2'] = 'Quản lý kho';
+$lang['title'] = 'Danh sách kho';
+$lang['table_1'] = 'STT';
+$lang['table_2'] = 'Tên Kho';
+$lang['table_3'] = 'Mô Tả';
+$lang['table_4'] = 'Loại';
+$lang['table_5'] = 'Đơn Vị';
+$lang['table_6'] = 'Thao Tác';
+$lang['button_create'] = 'Thêm Yêu Cầu';
+$lang['button_reload'] = 'Tải Lại';
+$lang['tooltip_sua'] = 'Sửa';
+$lang['tooltip_xoa'] = 'Xóa';
+$lang['title_create'] = 'Thêm Kho Mới';
+$lang['title_update'] = 'Sửa Kho';
+$lang['input1'] = 'Tên kho';
+$lang['input1_validation'] = 'Tên kho không để trống';
+$lang['input1_validation_error'] = 'Tên kho đã tồn tại';
+$lang['input2'] = 'Mô tả';
+$lang['input3'] = 'Loại thiết bị';
+$lang['input4'] = 'Mã Thiết Bị';
+$lang['input4_validation'] = 'Mã thiết bị không để trống';
+$lang['input5'] = 'Mấy Cấp';
+$lang['input6'] = 'Số Lượng';
+$lang['xacnhan'] = 'Xác Nhận';
+$lang['xacnhan_create'] = 'Xác nhận thêm kho này?';
+$lang['xacnhan_update'] = 'Xác nhận sửa kho này?';
+$lang['xacnhan_delete'] = 'Xác nhận xóa kho này?';
+$lang['canhbao'] = 'Cảnh Báo!';
+$lang['button_them'] = 'Thêm';
+$lang['button_sua'] = 'Sửa';
+$lang['button_thoat'] = 'Thoát';
+$lang['co'] = 'Có';
+$lang['khong'] = 'Không';
+$lang['thanhcong'] = 'Thành Công';
+$lang['xacnhan_delete_success'] = 'Bạn đã xóa kho thành công';
+$lang['xacnhan_create_success'] = 'Bạn đã thêm kho thành công';
+$lang['xacnhan_update_success'] = 'Bạn đã sửa kho thành công';
+$lang['thatbai'] = 'Thất Bại';
+?>

@@ -1,0 +1,42 @@
+<?php
+
+$lang['url_1'] = 'Quản lý lưu mẫu_english';
+$lang['url_2'] = 'Quản lý kho_english';
+$lang['title'] = 'Danh sách kho_english';
+$lang['table_1'] = 'STT_english';
+$lang['table_2'] = 'Tên Kho_english_english';
+$lang['table_3'] = 'Mô Tả_english';
+$lang['table_4'] = 'Loại_english';
+$lang['table_5'] = 'Đơn Vị_english';
+$lang['table_6'] = 'Thao Tác_english';
+$lang['button_create'] = 'Thêm Yêu Cầu_english';
+$lang['button_reload'] = 'Tải Lại_english';
+$lang['tooltip_sua'] = 'Sửa_english';
+$lang['tooltip_xoa'] = 'Xóa_english';
+$lang['title_create'] = 'Thêm Kho Mới_english';
+$lang['title_update'] = 'Sửa Kho_english';
+$lang['input1'] = 'Tên kho_english';
+$lang['input1_validation'] = 'Tên kho không để trống_english';
+$lang['input1_validation_error'] = 'Tên kho đã tồn tại_english';
+$lang['input2'] = 'Mô tả_english';
+$lang['input3'] = 'Loại thiết bị_english';
+$lang['input4'] = 'Mã Thiết Bị_english';
+$lang['input4_validation'] = 'Mã thiết bị không để trống_english';
+$lang['input5'] = 'Mấy Cấp_english';
+$lang['input6'] = 'Số Lượng_english';
+$lang['xacnhan'] = 'Xác Nhận_english';
+$lang['xacnhan_create'] = 'Xác nhận thêm kho này?_english';
+$lang['xacnhan_update'] = 'Xác nhận sửa kho này?_english';
+$lang['xacnhan_delete'] = 'Xác nhận xóa kho này?_english';
+$lang['canhbao'] = 'Cảnh Báo!_english';
+$lang['button_them'] = 'Thêm_english';
+$lang['button_sua'] = 'Sửa_english';
+$lang['button_thoat'] = 'Thoát_english';
+$lang['co'] = 'Có_english';
+$lang['khong'] = 'Không_english';
+$lang['thanhcong'] = 'Thành Công_english';
+$lang['xacnhan_delete_success'] = 'Bạn đã xóa kho thành công_english';
+$lang['xacnhan_create_success'] = 'Bạn đã thêm kho thành công_english';
+$lang['xacnhan_update_success'] = 'Bạn đã sửa kho thành công_english';
+$lang['thatbai'] = 'Thất Bại_english';
+?>
